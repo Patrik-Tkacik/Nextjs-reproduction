@@ -1,0 +1,74 @@
+{
+  "Not-found": {
+    "Title": "Page not found",
+    "Subtitle": "Sorry, we couldn’t find the page you’re looking for.",
+    "Go-home": "Home page",
+    "Go-back": "Go back"
+  },
+  "Menu": {
+    "Contact-us": "Contact us",
+    "Our-work": "Our Work",
+    "About-us": "About Us",
+    "Our-process": "Our Process",
+    "Blog": "Blog",
+    "Office": {
+      "Office": "Our offices",
+      "Slovakia": "Slovakia"
+    },
+    "Follow-us": "Follow us",
+    "Change-language": "Language"
+  },
+  "Footer": {
+    "Work": "Our work",
+    "See-all": "See all",
+    "Company": {
+      "Company": "Company",
+      "About": "About",
+      "Process": "Process",
+      "Blog": "Blog",
+      "Contact-us": "Contact us"
+    },
+    "Connect": "Connect",
+    "Email": {
+      "Title": "Sign up for our newsletter",
+      "Subtitle": "Subscribe to get the latest design news, articles, resources and inspiration.",
+      "Email-address": "Email address"
+    }
+  },
+  "Contact-section": {
+    "Title": "Tell us about your project",
+    "Hej": "Say hej",
+    "Office": "Our office"
+  },
+  "Root": {
+    "Top": {
+      "Title": "Industry-specific system & marketing innovation.",
+      "Subtitle": "Specializing in system & marketing innovations across diverse industries: from agriculture to manufacturing, we tailor solutions to meet unique industry challenges."
+    },
+    "Clients": {
+      "Worked-with": "We’ve worked with hundreds of amazing people"
+    },
+    "Case-Studies": "We firmly believe that technology holds the key to addressing the world's most pressing issues. By harnessing its power, we can enhance various sectors to foster a better life for everyone.",
+    "Services": {
+      "Services": "Services",
+      "Title": "We help you identify, explore and respond to new opportunities.",
+      "Subtitle": "Innovating systems and marketing, we tailor digital solutions for growth across industries, from agriculture to manufacturing.",
+      "Web-development": {
+        "Web-development": "Web-development",
+        "Description": "We excel in creating stunning, top-tier marketing pages tailored to unique needs. Our expertise lies in developing original, professional-grade websites that cater to specific use cases for each of our clients."
+      },
+      "E-commerce": {
+        "E-commerce": "E-commerce",
+        "Description": "Most modern websites aren't complete without some form of e-commerce. That's why we're pros at adding e-commerce features to any site, making sure users have a great shopping experience."
+      },
+      "User-management": {
+        "User-management": "User management",
+        "Description": "Whether you're looking for a B2B, B2C, B2B2C, or even an employee management system, we've got you covered. Our expertise spans across various types of user management solutions, ensuring secure and efficient access control, authentication, and data privacy for businesses of all sizes and sectors."
+      },
+      "Content-management": {
+        "Content-management": "Content management",
+        "Description": "Whether you're running a blog, showcasing your portfolio, or managing content for a business, we've got you covered. Our content management solutions are designed to make it easy to create, organize, and publish your digital content, ensuring your online presence is both engaging and effective."
+      }
+    }
+  }
+}

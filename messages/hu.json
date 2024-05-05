@@ -1,0 +1,74 @@
+{
+  "Not-found": {
+    "Title": "Az oldal nem található",
+    "Subtitle": "Sajnáljuk, nem találtuk az általad keresett oldalt.",
+    "Go-home": "Főoldal",
+    "Go-back": "Vissza"
+  },
+  "Menu": {
+    "Contact-us": "Kapcsolat",
+    "Our-work": "Munkáink",
+    "About-us": "Rólunk",
+    "Our-process": "Folyamatunk",
+    "Blog": "Blog",
+    "Office": {
+      "Office": "Irodánk",
+      "Slovakia": "Slovákia"
+    },
+    "Follow-us": "Kövess minket",
+    "Change-language": "Nyelv"
+  },
+  "Footer": {
+    "Work": "Munkáink",
+    "See-all": "Összes megtekintése",
+    "Company": {
+      "Company": "Cég",
+      "About": "Rólunk",
+      "Process": "Folyamat",
+      "Blog": "Blog",
+      "Contact-us": "Kapcsolat"
+    },
+    "Connect": "Kapcsolódás",
+    "Email": {
+      "Title": "Feliratkozás hírlevelünkre",
+      "Subtitle": "Feliratkozva a legfrissebb design híreket, cikkeket, forrásokat és inspirációkat kapja.",
+      "Email-address": "E-mail cím"
+    }
+  },
+  "Contact-section": {
+    "Title": "Mondd el projektjéről",
+    "Hej": "Írjon nekünk",
+    "Office": "Irodánk"
+  },
+  "Root": {
+    "Top": {
+        "Title": "Ágazatspecifikus rendszer- és marketinginnováció.",
+        "Subtitle": "Specializálódunk a rendszer- és marketinginnovációk terén a különböző iparágakban: a mezőgazdaságtól a gyártásig személyre szabott megoldásokat kínálunk az egyedi iparági kihívásokra."
+    },
+    "Clients": {
+        "Worked-with": "Százával dolgoztunk már együtt lenyűgöző emberekkel."
+    },
+    "Case-Studies": "Határozottan hisszük, hogy a technológia kulcsfontosságú a világ legégetőbb problémáinak megoldásához. Annak felhasználásával különböző szektorok fejleszthetők előre, hogy mindenki jobb életet élhessen.",
+    "Services": {
+        "Services": "Szolgáltatások",
+        "Title": "Segítünk azonosítani, felfedezni és reagálni az új lehetőségekre.",
+        "Subtitle": "Rendszerek és marketing innovációjával digitális megoldásokat kínálunk a növekedéshez különböző iparágakban, a mezőgazdaságtól a gyártásig.",
+        "Web-development": {
+            "Web-development": "Webfejlesztés",
+            "Description": "Kiemelkedünk a lenyűgöző, első osztályú marketing oldalak készítésében, személyre szabva az egyedi igényeket. Szakértelmünk az eredeti, szakmai minőségű weboldalak fejlesztésében rejlik, amelyek minden ügyfelünk számára specifikus felhasználási esetekre szabottak."
+        },
+        "E-commerce": {
+            "E-commerce": "E-kereskedelem",
+            "Description": "A legtöbb modern weboldal nem lehet teljes e-kereskedelem nélkül. Ezért vagyunk profik az e-kereskedelem funkcióinak hozzáadásában bármely webhelyhez, hogy a felhasználók fantasztikus vásárlási élményben részesüljenek."
+        },
+        "User-management": {
+            "User-management": "Felhasználókezelés",
+            "Description": "Legyen szó B2B, B2C, B2B2C vagy akár munkavállalói kezelőrendszer kereséséről, mi segítünk. Szakértelmünk kiterjed a különböző típusú felhasználókezelési megoldásokra, biztosítva a biztonságos és hatékony hozzáférés-ellenőrzést, az azonosítást és az adatvédelmet vállalatok minden méretének és szektorának számára."
+        },
+        "Content-management": {
+            "Content-management": "Tartalomkezelés",
+            "Description": "Akár blogot üzemeltet, portfóliót mutat be vagy kezeli a vállalkozás digitális tartalmát, nálunk jó helyen jár. A tartalomkezelési megoldásaink azért lettek kialakítva, hogy könnyű legyen létrehozni, szervezni és közzétenni a digitális tartalmat, biztosítva, hogy az online jelenlét érdekes és hatékony legyen."
+        }
+    }
+}
+}

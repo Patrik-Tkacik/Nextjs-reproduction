@@ -1,0 +1,74 @@
+{
+  "Not-found": {
+    "Title": "Stránka nenájdená",
+    "Subtitle": "Ospravedlňujeme sa, ale stránka, ktorú hľadáte, nebola nájdená.",
+    "Go-home": "Domovská stránka",
+    "Go-back": "Späť"
+  },
+  "Menu": {
+    "Contact-us": "Kontaktujte nás",
+    "Our-work": "Naše práce",
+    "About-us": "O nás",
+    "Our-process": "Naša proces",
+    "Blog": "Blog",
+    "Office": {
+      "Office": "Naša kancelária",
+      "Slovakia": "Slovensko"
+    },
+    "Follow-us": "Sledujte nás",
+    "Change-language": "Jazyk"
+  },
+  "Footer": {
+    "Work": "Naša práca",
+    "See-all": "Zobraziť všetko",
+    "Company": {
+      "Company": "Spoločnosť",
+      "About": "O nás",
+      "Process": "Proces",
+      "Blog": "Blog",
+      "Contact-us": "Kontaktujte nás"
+    },
+    "Connect": "Pripojiť",
+    "Email": {
+      "Title": "Prihláste sa na našu správu",
+      "Subtitle": "Prihláste sa, aby ste dostávali najnovšie novinky o dizajne, články, zdroje a inšpirácie.",
+      "Email-address": "Emailová adresa"
+    }
+  },
+  "Contact-section": {
+    "Title": "Povedzte nám o vašom projekte",
+    "Hej": "Povedz hej",
+    "Office": "Naša kancelária"
+  },
+  "Root": {
+    "Top": {
+      "Title": "Systémové inovácie zamerané na konkrétne odvetvia a marketing.",
+      "Subtitle": "Špecializujeme sa na systémové a marketingové inovácie v rôznych odvetviach: od poľnohospodárstva po výrobu, prispôsobujeme riešenia pre jedinečné výzvy konkrétnych odvetví."
+    },
+    "Clients": {
+      "Worked-with": "Spolupracovali sme s stovkami úžasných ľudí."
+    },
+    "Case-Studies": "Dôrazne veríme, že technológia drží kľúč k riešeniu najnaliehavejších problémov sveta. Využívaním jej potenciálu môžeme zlepšiť rôzne sektory a prispeť k lepšiemu životu pre každého.",
+    "Services": {
+      "Services": "Služby",
+      "Title": "Pomáhame vám identifikovať, preskúmať a reagovať na nové príležitosti.",
+      "Subtitle": "Inovujeme systémy a marketing, prispôsobujeme digitálne riešenia pre rast v rôznych odvetviach, od poľnohospodárstva po výrobu.",
+      "Web-development": {
+        "Web-development": "Vývoj webov",
+        "Description": "Vynikáme v tvorbe úžasných, špičkových marketingových stránok prispôsobených jedinečným potrebám. Naša odbornosť spočíva vo vytváraní originálnych, profesionálnych webových stránok prispôsobených konkrétnym prípadom pre každého z našich klientov."
+      },
+      "E-commerce": {
+        "E-commerce": "E-commerce",
+        "Description": "Väčšina moderných webových stránok nie je kompletná bez nejakého druhu e-commerce. Preto sme odborníci v pridávaní funkcionalít e-commerce na akúkoľvek stránku, aby mali používatelia skvelý nákupný zážitok."
+      },
+      "User-management": {
+        "User-management": "Správa používateľov",
+        "Description": "Či už hľadáte systém pre obchodovanie medzi podnikmi (B2B), medzi firmami a zákazníkmi (B2B2C) alebo dokonca systém na správu zamestnancov, sme tu pre vás. Naša odbornosť zahŕňa rôzne typy riešení pre správu používateľov, zabezpečujúce bezpečnú a efektívnu kontrolu prístupu, autentifikáciu a ochranu údajov pre firmy všetkých veľkostí a odvetví."
+      },
+      "Content-management": {
+        "Content-management": "Správa obsahu",
+        "Description": "Či už prevádzkujete blog, prezentujete svoje portfólio alebo spravujete obsah pre firmu, sme tu pre vás. Naše riešenia pre správu obsahu sú navrhnuté tak, aby bolo ľahké vytvárať, organizovať a publikovať váš digitálny obsah, zabezpečujúc, že vaša online prítomnosť je zaujímavá a účinná."
+      }
+    }
+  }
+}

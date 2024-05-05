@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  button:focus, a:focus, input:focus, textarea:focus, select:focus {
+    @apply focus:outline-none;
+  }
+}
